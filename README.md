@@ -25,3 +25,5 @@ acessível pelo celular conectado à mesma rede Wi-Fi.
 
 - WiFi
 - DHT sensor library
+
+  ![página web](página web.jpeg)
